@@ -1,0 +1,5 @@
+Ingresar https://snippet-generator.app/
+Copiar fragmento de codigo que quieres reutilizar
+Control + Shift + p
+Buscamos: configurar fragmento de usuario
+Buscamos: HTML.json el cual abre un archivo html.json, donde solo nos quedamos con la primera llave , y dentro pegamos lo generado desde snipped generado
